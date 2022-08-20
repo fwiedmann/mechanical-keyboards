@@ -1,4 +1,4 @@
-# mechanical-keyboards
+# mechanical-keyboards ⌨️
 
 A curated list of my mechanical keyboards + resources for custom builds.
 
@@ -7,11 +7,17 @@ Once you're stuck there is no way back. Even more when you built your first lube
 
 Before you buy your first mechanical keyboard, you should consider the following aspcets in order to make the right choice.
 
-- Switches
-- Keycap Profiles
-- Case
-- Lube?
-- Layout
+## Considerations
+
+### Switches
+
+### Lube?
+
+### Keycap Profiles
+
+### Case
+
+### Layout
 
 ## Assembled Builds
 
