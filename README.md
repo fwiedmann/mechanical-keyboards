@@ -33,14 +33,14 @@ There are three different kinds of swwitches which differ by the key action, the
 
 - Linear: From the start pressing to fully pressed, it feels allways the same. There is no feedback like a bump or a clicky sound.
 - Tactile: Provides activation feedback by hitting a bump.
-- Clicky: Addition to the tactile bumb it also provides a clicl sound.
+- Clicky: Addition to the tactile bumb it also provides a click sound.
 
 Checkout a [sound comparison](https://www.youtube.com/watch?v=rm-WuK_9OBM) between those three kind of switches.
 
 There are also two important properties which influence the typing exprerience:
 
 - Activation force: How much force do you need to press the key. Is it more light or hard?
-- Key travel: When does the key triggers its activation and how much is the overall travel?
+- Key travel: When does the key trigger its activation and how long is the overall travel?
 
 In order to make the right choice you should try each kind of the switch to get a typing feeling.
 I do not recommend to buy switches just by their sound.
