@@ -82,44 +82,90 @@ All the keyboards which I boght fully assembeled.
 
 ### Keychron K8
 
-- Name:
-- Price:
-- Switches:
-- Keycap profile:
-- Layout:
-- Notes:
-- Links:
+Checkout the typing sound on YouTube:
+
+[![Keychron k8 Typing Sound](https://img.youtube.com/vi/f4EPsGQkXgE/0.jpg))](https://www.youtube.com/watch?v=f4EPsGQkXgE)
+
+- Name: Keychron K8 Wireless Mechanical Keyboard
+- Price: 89$
+- Switches: Gateron G Pro Mechnaical Brown
+- Keycap profile: OEM
+- Layout: ANSI (QWERTY)
+- Link: [Keychron Store](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252365913)
 
 ### Keychron K7
 
-- Name:
-- Price:
-- Switches:
-- Keycap profile:
-- Layout:
-- Notes:
-- Links:
+Checkout the typing sound on YouTube:
+
+[![Keychron k7 Typing Sound](https://img.youtube.com/vi/4Fgj4Pb7nTA/0.jpg))](https://www.youtube.com/watch?v=4Fgj4Pb7nTA)
+
+- Name: Keychron K7 Ultra-slim Wireless Mechanical Keyboard
+- Price: 84$
+- Switches: Low Profile Gateron Mechanical Red
+- Keycap profile: Custom Keychron
+- Layout: ANSI (QWERTY)
+- Links: [Keychron Store](https://www.keychron.com/products/keychron-k7-ultra-slim-wireless-mechanical-keyboard)
 
 ### Das Keyboard 4
 
-- Name:
-- Price:
-- Switches:
-- Keycap profile:
-- Layout:
-- Notes:
-- Links:
+Checkout the typing sound on YouTube:
+
+[![Das Keyboard 4 Typing Sound](https://img.youtube.com/vi/TMYcvKjn15E/0.jpg))](https://www.youtube.com/watch?v=TMYcvKjn15E)
+
+- Name: Das Keyboard 4 Professional
+- Price: 169$
+- Switches: Cherry MX Blue
+- Keycap profile: Cherry
+- Layout: ISO (QWERTZ)
+- Links: [daskeyboard Store](https://www.daskeyboard.com/daskeyboard-4-professional/)
 
 ## Custom Builds
 
 ### "The Forest"
 
-- Name:
-- Price:
-- Switches:
-- Keycap profile:
-- Layout:
-- Notes:
+Checkout the typing sound on YouTube:
+
+[![The Forest Typing Sound](https://img.youtube.com/vi/Mj7ndNa9OCA/0.jpg)](https://www.youtube.com/watch?v=Mj7ndNa9OCA)
+
+- Name: "The Forest 🌲"
+- Price: +400$
+- Switches: Gateron Ink Black V2
+- Keycap profile: OEM
+- Layout: ANSI (QWERTY)
+- Notes: Lubed with Krytox 205 G0
 - Links:
 
-## Accessories
+  - [65% Wooden Case + Hand Wrist](https://kbdfans.com/collections/case/products/65-wooden-case)
+  - [DZ65 RGB V3 HOT-SWAP RGB PCB](https://kbdfans.com/collections/pcb/products/dz68rgb-hot-swap-rgb-pcb)
+  - [65% BRASS Plate](https://kbdfans.cn/products/65-cnc-aluminum-plate?variant=39671459053708)
+  - [DZ65 RGB PCB FOAM](https://kbdfans.com/products/dz65-rgb-pcb-foam?_pos=5&_sid=ca4b5e634&_ss=r)
+  - [DZ65RGB CASE FOAM](https://kbdfans.com/products/dz65rgb-case-foam?_pos=6&_sid=ca4b5e634&_ss=r)
+  - [GATERON INK V2 BLACK LINEAR SWITCHES](https://kbdfans.com/products/gateron-ink-v2-black-switches?_pos=1&_psq=ink%20black%20v2&_ss=e&_v=1.0)
+  - [DUROCK SCREW-IN STABILIZER V2](https://keygem.store/collections/stabilizer/products/durock-screw-in-stablizer-v2-set)
+  - [Keycaps](https://de.banggood.com/124-Keys-Matcha-ABS-Keycap-Set-OEM-Profile-Translucent-Custom-Keycaps-for-Mechanical-Keyboards-p-1911924.html?cur_warehouse=CN&rmmds=search)
+  - [Mystery Forest - Artisan keycap (Spacebar)](https://www.etsy.com/listing/941837883/mystery-forest-artisan-keycap-keycap-set?ref=yr_purchases)
+
+  For Lubing:
+
+  - [KRYTOX GPL 205 GRADE 0 - 3ML](https://keygem.store/products/keygem-switch-lubricant-3ml?_pos=3&_sid=1d42af140&_ss=r)
+  - [TKC SWITCH OPENER](https://keygem.store/collections/switch-opener/products/tck-mx-switch-opener)
+  - [LUBE TOOL COLLECTION](https://keygem.store/collections/brush/products/lube-tool-collection)
+
+## Resources:
+
+### Stores
+
+- https://www.keychron.com
+- https://kbdfans.com
+- https://keygem.store
+- https://candykeys.com
+
+### Tutorials
+
+[How to Lube MX Style Switches](https://www.youtube.com/watch?v=44Wv4OGdmu4)
+
+[![Lube Switches](https://img.youtube.com/vi/44Wv4OGdmu4/0.jpg)](https://www.youtube.com/watch?v=44Wv4OGdmu4)
+
+[How to Lube and Tune Stabilizers](https://www.youtube.com/watch?v=usNx1_d0HbQ)
+
+[![Lube Stabilizers](https://img.youtube.com/vi/usNx1_d0HbQ/0.jpg)](https://www.youtube.com/watch?v=usNx1_d0HbQ)
