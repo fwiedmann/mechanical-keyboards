@@ -84,7 +84,7 @@ All the keyboards which I boght fully assembeled.
 
 Checkout the typing sound on YouTube:
 
-[![Keychron k8 Typing Sound](https://img.youtube.com/vi/f4EPsGQkXgE/0.jpg))](https://www.youtube.com/watch?v=f4EPsGQkXgE)
+[![Keychron k8 Typing Sound](https://img.youtube.com/vi/f4EPsGQkXgE/0.jpg)](https://www.youtube.com/watch?v=f4EPsGQkXgE)
 
 - Name: Keychron K8 Wireless Mechanical Keyboard
 - Price: 89$
@@ -97,7 +97,7 @@ Checkout the typing sound on YouTube:
 
 Checkout the typing sound on YouTube:
 
-[![Keychron k7 Typing Sound](https://img.youtube.com/vi/4Fgj4Pb7nTA/0.jpg))](https://www.youtube.com/watch?v=4Fgj4Pb7nTA)
+[![Keychron k7 Typing Sound](https://img.youtube.com/vi/4Fgj4Pb7nTA/0.jpg)](https://www.youtube.com/watch?v=4Fgj4Pb7nTA)
 
 - Name: Keychron K7 Ultra-slim Wireless Mechanical Keyboard
 - Price: 84$
@@ -110,7 +110,7 @@ Checkout the typing sound on YouTube:
 
 Checkout the typing sound on YouTube:
 
-[![Das Keyboard 4 Typing Sound](https://img.youtube.com/vi/TMYcvKjn15E/0.jpg))](https://www.youtube.com/watch?v=TMYcvKjn15E)
+[![Das Keyboard 4 Typing Sound](https://img.youtube.com/vi/TMYcvKjn15E/0.jpg)](https://www.youtube.com/watch?v=TMYcvKjn15E)
 
 - Name: Das Keyboard 4 Professional
 - Price: 169$
