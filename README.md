@@ -4,7 +4,7 @@
 
 A curated list of my mechanical keyboards + resources for custom builds.
 
-Over the past few years I got addicted to meachnical keyboards and got stuck in the rabbit hole.
+Over the past few years I got addicted to mechanical keyboards and got stuck in the rabbit hole.
 Once you're stuck there is no way back. Even more when you built your first lubed keyboard.
 
 <!--toc:start-->
@@ -25,19 +25,19 @@ Once you're stuck there is no way back. Even more when you built your first lube
 
 ## Considerations
 
-Before you buy your first mechanical keyboard, you should consider the following aspcets in order to make the right choice.
+Before you buy your first mechanical keyboard, you should consider the following aspects in order to make the right choice.
 
 ### Switches
 
-There are three different kinds of swwitches which differ by the key action, the typing feeling and the sound.
+There are three different kinds of switches which differ by the key action, the typing feeling and the sound.
 
-- Linear: From the start pressing to fully pressed, it feels allways the same. There is no feedback like a bump or a clicky sound.
+- Linear: From the start pressing to fully pressed, it feels always the same. There is no feedback like a bump or a clicky sound.
 - Tactile: Provides activation feedback by hitting a bump.
 - Clicky: Addition to the tactile bumb it also provides a click sound.
 
 Checkout a [sound comparison](https://www.youtube.com/watch?v=rm-WuK_9OBM) between those three kind of switches.
 
-There are also two important properties which influence the typing exprerience:
+There are also two important properties which influence the typing experience:
 
 - Activation force: How much force do you need to press the key. Is it more light or hard?
 - Key travel: When does the key trigger its activation and how long is the overall travel?
@@ -54,7 +54,7 @@ Below you can checkout a summary chart for different kinds of switches.
 
 ### Hot Swap
 
-The most fully assembeled keyboards do not support the capability of swapping the switches.
+The most fully assembled keyboards do not support the capability of swapping the switches.
 If you are not sure that the provided switches are the right, go with a keyboard that supports hot-swap.
 Instead of buying a new keyboard, just buy new switches and save some $$$.
 
@@ -69,16 +69,16 @@ Checkout this awesome guide: [A Guide to Keycap Profiles and Materials](https://
 ### Layout
 
 The most mechanical keyboards comes with the default ANSI-Layout (QWERTY). Most of the time there are less keycap layouts for your native language.
-Like the german ISO-Layout (QWERTZ). Before you buy a keyboard make sure you selected the correct layout.
+Like the German ISO-Layout (QWERTZ). Before you buy a keyboard make sure you selected the correct layout.
 
 I personally switched completly to the ANSI-Layout because IMO it's more convenient for coding.
-Due to I still chat/communicate with my colleagues in German, I heavily rely on the german umlauts.
+Due to I still chat/communicate with my colleagues in German, I heavily rely on the German umlauts.
 
 The [EurKey](https://eurkey.steffen.bruentjen.eu/layout.html) project aims to provide the functionality of umlauts for ANSI-Layouts.
 
 ## Assembled Builds
 
-All the keyboards which I boght fully assembeled.
+All the keyboards which I bought fully assembled.
 
 ### Keychron K8
 
@@ -105,6 +105,15 @@ Checkout the typing sound on YouTube:
 - Keycap profile: Custom Keychron
 - Layout: ANSI (QWERTY)
 - Links: [Keychron Store](https://www.keychron.com/products/keychron-k7-ultra-slim-wireless-mechanical-keyboard)
+
+### Keychron Q9
+
+- Name: Keychron Q9 QMK Custom Mechanical Keyboard (Knob Version)
+- Price: 169$
+- Switches: Gateron Ink Black V2 (lubed)
+- Keycap profile: Double-shot OSA PBT
+- Layout: ANSI (QWERTY)
+- Links: [Keychron Store](https://www.keychron.com/products/keychron-q9-qmk-custom-mechanical-keyboard)
 
 ### Das Keyboard 4
 
@@ -151,7 +160,7 @@ Checkout the typing sound on YouTube:
   - [TKC SWITCH OPENER](https://keygem.store/collections/switch-opener/products/tck-mx-switch-opener)
   - [LUBE TOOL COLLECTION](https://keygem.store/collections/brush/products/lube-tool-collection)
 
-## Resources:
+## Resources
 
 ### Stores
 
