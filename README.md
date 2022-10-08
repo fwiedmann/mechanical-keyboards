@@ -17,6 +17,7 @@ Once you're stuck there is no way back. Even more when you built your first lube
 - [Assembled Builds](#assembled-builds)
   - [Keychron K8](#keychron-k8)
   - [Keychron K7](#keychron-k7)
+  - [Keychron Q9](#keychron-q9)
   - [Das Keyboard 4](#das-keyboard-4)
 - [Custom Builds](#custom-builds)
   - ["The Forest"](#the-forest)
